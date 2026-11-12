@@ -5,7 +5,7 @@ export const EXPIRY_DAYS = 1;
 
 // The app's publishable App Key (pk_...), sent as client_id so the consent screen names the app and usage is
 // attributed to it. Its redirect URI must be exactly this page's address. Empty until the key is created.
-export const APP_KEY = "";
+export const APP_KEY = "pk_vY18Q4rFZyYB7BEW";
 
 // The MCP server of the game (a Cloudflare Worker, free plan). Any MCP client can use it.
 export const MCP_URL = "https://schelling-table.schelling-table-server.workers.dev/mcp";

@@ -1,0 +1,8 @@
+{
+    "name": "pollinations-schelling-table",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "node --test"
+    }
+}
